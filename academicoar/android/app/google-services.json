@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253977310621",
+    "project_id": "academico-4a053",
+    "storage_bucket": "academico-4a053.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253977310621:android:244051c73162a7cd2c6b74",
+        "android_client_info": {
+          "package_name": "com.example.academicoar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJ2VXo0Fm9dkgDrv-upaqGakZnhgDJ5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
